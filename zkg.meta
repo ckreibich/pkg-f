@@ -1,0 +1,3 @@
+[package]
+description = A dependent package, required by pkg-e
+script_dir = scripts
