@@ -1,4 +1,4 @@
 event zeek_init()
 	{
-	print("This is pkg-f master");
+	print("This is pkg-f release/1.0");
 	}
